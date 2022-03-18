@@ -1,4 +1,4 @@
-### Hey, my name is Jeremy Aubrey👋
+### Hey, I'm Jeremy 👋
 
 - 🔭 I’m currently working on an interactive [math game](math-game) in Java.
 - 🌱 I’m currently learning Java.
