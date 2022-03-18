@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy doing art and working with many other creative mediums along with coding. 
 
-[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremy-aubrey&show_icons=true&theme=radical)](https://github.com/jeremy-aubrey/github-readme-stats)
+[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremy-aubrey&show_icons=true&theme=aura)](https://github.com/jeremy-aubrey/github-readme-stats)
