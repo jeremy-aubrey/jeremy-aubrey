@@ -1,5 +1,3 @@
-![](whale.png)
-
 ### Hey, I'm Jeremy 👋
 
 - 🔭 I’m currently working on an interactive [math game](../../../math-game) in Java.
